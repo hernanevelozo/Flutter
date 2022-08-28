@@ -22,9 +22,8 @@ Repositório que contém todos os aplicativos desenvolvidos para dispositivos m�
 ## Autoria
 Este projeto foi criado e é mantido por [Hernane Velozo](https://github.com/hernanevelozo/) em seus tempos livres.
 
-Licença
-=======
-
+## Licença
+  
     Copyright 2022 Hernane Velozo
     
     Licensed under the Apache License, Version 2.0 (the "License");
