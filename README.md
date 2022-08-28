@@ -20,7 +20,7 @@ Repositório que contém todos os aplicativos desenvolvidos para dispositivos m�
 
 
 ## Autoria
-Este projeto foi criado e é mantido por [Hernane Velozo](https://github.com/hernanevelozo/hernanevelozo) em seus tempos livres.
+Este projeto foi criado e é mantido por [Hernane Velozo](https://github.com/hernanevelozo/) em seus tempos livres.
 
 Licença
 =======
