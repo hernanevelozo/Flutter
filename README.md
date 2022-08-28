@@ -4,7 +4,7 @@
 </div>
 
 
-## Central dos projetos em [Dart](https://dart.dev/) com o Framework [Flutter](https://flutter.io/).
+## Central dos projetos desenvolvidos em [Dart](https://dart.dev/) com o Framework [Flutter](https://flutter.io/).
 Repositório que contém todos os aplicativos desenvolvidos para dispositivos móveis
 
 - Versão Dart: 2.17.6
