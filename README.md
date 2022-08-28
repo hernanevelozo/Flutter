@@ -15,7 +15,7 @@ Repositório que contém todos os aplicativos desenvolvidos para dispositivos m�
 
 ## Exemplos
 
-1. [Meu Cartão](/meu_cartao_app)
+1. [Meu Cartão](https://github.com/hernanevelozo/meu_cartao_app)
 1. [Dados](/meu_cartao_app) - off
 
 
