@@ -16,7 +16,8 @@ Repositório que contém todos os aplicativos desenvolvidos para dispositivos m�
 ## Exemplos
 
 1. [Meu Cartão](https://github.com/hernanevelozo/meu_cartao_app)
-1. [Dados](/meu_cartao_app) - off
+2. [Calculadora de IMC v1](https://github.com/hernanevelozo/calcula_imc)
+
 
 
 ## Autoria
